@@ -68,9 +68,12 @@ Portfolio Publishing: Published the complete, end-to-end project on **GitHub** (
 
 6. Act
 
-Post-Purchase Onboarding (Month 1):** Deploy an automated 30-day email onboarding sequence and a second-purchase incentive within 14 days to smooth out the massive Month 1 retention drop-off.
+Post-Purchase Onboarding (Month 1): Deploy an automated 30-day email onboarding sequence and a second-purchase incentive within 14 days to smooth out the massive Month 1 retention drop-off.
+
 Win-Back Campaigns (At Risk Tier): Launch targeted re-engagement campaigns (personalized discounts, product recommendations) for high-value spenders slipping past 200+ days of inactivity.
+
 VIP Loyalty Program (Champions): Implement an exclusive VIP program (early product access, dedicated perks) to retain top-tier revenue drivers.
+
 Ad Spend Optimization (Lost/Inactive*): Exclude long-term inactive users from paid retargeting ads to cut acquisition/retargeting costs.
 
 Visual Highlights & Analytical Findings
