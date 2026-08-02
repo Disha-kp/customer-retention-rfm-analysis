@@ -79,7 +79,7 @@ VIP Loyalty Program (Champions): Implement an exclusive VIP program (early produ
 
 Ad Spend Optimization (Lost/Inactive*): Exclude long-term inactive users from paid retargeting ads to cut acquisition/retargeting costs.
 
-Visual Highlights & Analytical Findings
+VISUAL HIGHLIGHTS & ANALYTICAL FINDINGS
 
 Cohort Retention Matrix (12-Month Drop-Off)
 
