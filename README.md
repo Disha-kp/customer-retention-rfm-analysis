@@ -52,9 +52,12 @@ Data Export: Output cleaned transaction logs (`cleaned_retail_data.csv.gz`) and 
 
 Cohort Analysis: Tracked monthly customer cohorts from Month 0 through Month 12+ to measure retention rates over time.
 RFM Scoring: Evaluated customers on Recency, Frequency, and Monetary scores (scale 1–5 using percentiles via SQL) to assign strategic labels (Champions, Loyal Customers, Promising, At Risk, Lost/Inactive).
+
 Key Findings:
 Sharp Initial Churn: Customer retention drops from **100% (Month 0)** to **~15–35% in Month 1**, stabilizing between 10–25% in subsequent months.
+
 Revenue Concentration: A small fraction of customers (*Champions*) accounts for the vast majority of cumulative revenue.
+
 Slipping High Spenders: Identified a key cluster of historic high-spenders who have not purchased in 200–600+ days (At Risk).
 
 5. Share
@@ -78,11 +81,14 @@ Ad Spend Optimization (Lost/Inactive*): Exclude long-term inactive users from pa
 
 Visual Highlights & Analytical Findings
 
-1. Cohort Retention Matrix (12-Month Drop-Off)
+Cohort Retention Matrix (12-Month Drop-Off)
+
 Finding: Customer retention drops significantly from 100% (Month 0) down to ~15–35% in Month 1, stabilizing near 10–25% in long-term months.
+
 Recommendation: Focus marketing automation on an optimized 30-day post-purchase onboarding sequence to reduce initial churn.
 
-2. Strategic RFM Segmentation
+Strategic RFM Segmentation
+
 Customers were scored (1-5) on Recency, Frequency, and Monetary metrics using DuckDB percentile windowing and categorized into strategic buckets:
 
 Champions: High spenders with recent purchases. Generates the vast majority of cumulative business revenue.
