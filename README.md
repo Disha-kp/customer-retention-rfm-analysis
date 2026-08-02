@@ -20,15 +20,16 @@ Key Business Questions Addressed:
 
 This is how I aligned "Customer Retention & RFM Segmentation Analysis" project with each of the following steps:
 
- 1. Ask
-    Core Questions Identified:
- How does customer retention decay month-over-month following initial onboarding?
- How is business revenue distributed across different customer behavioral tiers?
- Which high-spending customers are currently "At Risk" and require proactive retention interventions?
+1. Ask
+
+Core Questions Identified: 
+How does customer retention decay month-over-month following initial onboarding?
+How is business revenue distributed across different customer behavioral tiers?
+Which high-spending customers are currently "At Risk" and require proactive retention interventions?
 
 Key Stakeholders: Marketing Team (for retention campaigns), Customer Success, and Executive Leadership (for LTV forecasting).
 
- 2.  Prepare
+2.  Prepare
 
 Data Source: UCI Online Retail II Dataset loaded via Kaggle into Google Colab.
 Data Attributes: Transactional record containing `InvoiceNo`, `StockCode`, `Description`, `Quantity`, `InvoiceDate`, `UnitPrice`, `CustomerID`, and `Country`.
